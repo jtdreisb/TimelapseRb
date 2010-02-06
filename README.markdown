@@ -8,7 +8,7 @@ to install them
 
 sudo apt-get install streamer mencoder
 
-I beleive that will suffice
+I believe that will suffice
 
 Usage
 =====
