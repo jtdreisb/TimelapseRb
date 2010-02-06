@@ -17,3 +17,9 @@ Usage
 2. add music file to directory
 3. run ./timelapse.rb
 4. watch your video
+
+
+MIT License
+----------
+
+see LICENSE
