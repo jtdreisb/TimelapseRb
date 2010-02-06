@@ -1,5 +1,6 @@
 Timelapse Ruby Script
 ====================
+by: Jason Dreisbach
 
 Requires: *streamer*, *mencoder*
 
@@ -15,5 +16,4 @@ Usage
 1. copy timelapse.rb into a new directory
 2. add music file to directory
 3. run ./timelapse.rb
-
 4. watch your video
